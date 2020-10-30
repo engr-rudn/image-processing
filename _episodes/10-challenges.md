@@ -24,9 +24,9 @@ your morphometric challenge is to determine how many bacteria colonies are in
 each of these images. These images can be found in the 
 **Desktop/workshops/image-processing/10-challenges/morphometric** directory. 
 
-![Colony image 1](../fig/00-colonies01.jpg)
+`![Colony image 1](../fig/00-colonies01.jpg)`
 
-![Colony image 2](../fig/00-colonies02.jpg)
+![Colony image 2](https://i.loli.net/2020/10/31/hsS4FtcCfkKYXJz.jpg)
 
 ![Colony image 3](../fig/00-colonies03.jpg)
 
@@ -34,11 +34,11 @@ Write a Python program that uses skimage to count the number of bacteria
 colonies in each image, and for each, produce a new image that highlights the colonies.
 The image should look similar than this one:
 
-![Sample morphometric output](../fig/00-colony-mask.png)
+![Sample morphometric output](https://i.loli.net/2020/10/31/sBz98PvAUDKXM2I.png)
 
 Additionally, print out the number of colonies for each image.
 
-
+![](C:\Users\master\Pictures\Teklay_T.jpg)
 
 ## Colorimetrics: titration color analysis
 
